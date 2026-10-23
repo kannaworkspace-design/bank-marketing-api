@@ -3,7 +3,7 @@
 Predicts which bank customers will subscribe to a term deposit, scored **before**
 the call is made, so a campaign can be ordered by who is worth ringing first.
 
-Live API: `hhttps://bank-marketing-api-3mst.onrender.com`
+Live API: hhttps://bank-marketing-api-3mst.onrender.com
 Interactive `docs: https://bank-marketing-api-3mst.onrender.com/docs`
 
 
